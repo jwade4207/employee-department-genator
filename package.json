@@ -1,0 +1,19 @@
+{
+  "name": "employee-department-genator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwade4207/employee-department-genator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwade4207/employee-department-genator/issues"
+  },
+  "homepage": "https://github.com/jwade4207/employee-department-genator#readme"
+}
